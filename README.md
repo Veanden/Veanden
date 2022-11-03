@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marcin Broś, currently I am a 3rd year IT student at the Lodz University of Technology. 
+My name is Marcin Broś, currently I am a 4th year IT student at the Lodz University of Technology. 
 
 ## My Projects
 |Repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
